@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+    <style>
+	.axis-grid line {
+	stroke: #F0F0F0;
+}
+</style>
+
+<!-- Load d3.js & color palette-->
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="http://code.jquery.com/jquery-1.7.1.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+<div id="svg2"></div>
+
+<html>
+  <body>
+    <img src="image.jpg" alt="A description of the image">
+  </body>
+</html>
+
+
+<script>
+
+</script>
